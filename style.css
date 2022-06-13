@@ -1,0 +1,31 @@
+li {
+  display: inline;
+}
+
+.ahmed {
+  color: blue;
+  font-size: 50px;
+  border: 10px coral solid;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  max-height: 50px;
+  margin-left: 50px;
+  background-color: blueviolet;
+}
+
+#sami {
+  color: brown;
+  background-color: aquamarine;
+  align-self: vissted;
+  color: blueviolet;
+  border-top: 50px;
+  border-bottom: 50px;
+  width: 25px;
+  border: left 25px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+}
+
+#kamel {
+  color: blue;
+}
